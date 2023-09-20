@@ -1,3 +1,8 @@
+# HooBank Landing Page
+A responsive landing page for a banking service made using React+Vite and Tailwind CSS
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
